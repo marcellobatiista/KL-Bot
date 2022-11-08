@@ -1,4 +1,4 @@
-# Kakele Bot 🤖
+# Kakele Bot 🤖 - [YT](https://youtu.be/6NhE3GDJ5aw)
 
 O Kakele Bot é gratuito e open source.
 Bot leve e simples, com reconhecimento óptico de caracteres (OCR).
