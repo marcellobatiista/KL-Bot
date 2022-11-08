@@ -109,7 +109,7 @@ Agora, você precisa iniciar o Kakele Bot. Para isso, abra o terminal e digite:
 
 Você pode gerar um executável para o Kakele Bot. Para isso, abra o terminal e digite:
 
-`pyinstaller --noconfirm --onefile --windowed --add-data "C:/CAMINHO/PARA/PASTA/system;system/" --add-data "C:/CAMINHO/PARA/PASTA/forms;forms/"  "C:/CAMINHO/PARA/ARQUIVO/kakele.py"`
+`pyinstaller --noconfirm --onefile --windowed --add-data "C:/CAMINHO/PARA/PASTA/system;system/" --add-data "C:/CAMINHO/PARA/PASTA/forms;forms/"  "C:/CAMINHO/PARA/ARQUIVO/main.py"`
 
 ### Iniciando o executável
 
