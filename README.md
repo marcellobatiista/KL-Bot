@@ -133,4 +133,4 @@ O Kakele Bot é licenciado sob a [licença MIT](LICENSE) :page_facing_up: Licens
 
 ## Créditos
 
-O Kakele Bot foi feito por [@Marcelo](https://wwww.instagram.com/marcellobatiista).
+O Kakele Bot foi feito por [@Marcelo](https://www.instagram.com/marcellobatiista).
