@@ -1,0 +1,23 @@
+# Teclado
+keyboard==0.13.5
+pydirectinput==1.0.4
+pynput==1.7.6
+
+# GUI
+PyAutoGUI==0.9.53
+PyGetWindow==0.0.9
+PyQt6==6.4.0
+
+# Banco
+pymongo==4.3.2
+
+# Imagens
+pytesseract==0.3.10
+python_imagesearch==1.2.2
+opencv-python~=4.6.0.66
+numpy==1.23.4
+
+# Google Driver Download
+gdown
+# Unrar
+patool
