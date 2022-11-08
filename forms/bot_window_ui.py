@@ -193,7 +193,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Kakele BOT"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "KL BOT"))
         self.groupBox_2.setTitle(_translate("MainWindow", " Recuperação "))
         self.label_vida.setText(_translate("MainWindow", "N/N"))
         self.label.setText(_translate("MainWindow", "Vida:"))

@@ -85,8 +85,8 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Kakele BOT - Login"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "KL BOT - Login"))
         self.label.setText(_translate("MainWindow", "Login"))
         self.label_2.setText(_translate("MainWindow", "Senha"))
-        self.label_3.setText(_translate("MainWindow", "Kakele BOT"))
+        self.label_3.setText(_translate("MainWindow", "KL BOT"))
         self.pushButton_conectar.setText(_translate("MainWindow", "Conectar"))

@@ -26,7 +26,7 @@ O projeto está dividido em três partes principais:
 - **system/**: Contém os arquivos de funcionamento do bot.
 
 ``` shell
-Kakele-Bot/
+KL-Bot/
 ├── comp_out/
 │   ├── recursos/
 │   │   └── kake_icon2.ico
@@ -95,7 +95,7 @@ Primeiro, você precisa instalar o Python 3.6 ou superior. Você pode baixar o P
 
 Agora, você precisa clonar o repositório do Kakele Bot. Para isso, abra o terminal e digite:
 
-`git clone https://github.com/marcellobatiista/Kakele-Bot.git && cd Kakele-Bot`
+`git clone https://github.com/marcellobatiista/KL-Bot.git && cd KL-Bot`
 
 `pip install -r requirements.txt`
 
@@ -103,7 +103,7 @@ Agora, você precisa clonar o repositório do Kakele Bot. Para isso, abra o term
 
 Agora, você precisa iniciar o Kakele Bot. Para isso, abra o terminal e digite:
 
-`python3 kakelebot.py`
+`python3 main.py`
 
 ### Gerando o executável
 
@@ -118,13 +118,13 @@ Agora, você precisa iniciar o Kakele Bot. Para isso, coloque o `kakele.exe` ao 
 ``` shell
 PASTA_QUALQUER/
 ├── comp_out/
-└── kakelebot.exe
+└── main.exe
 ```
 
 ## Como contribuir?
 
-Você pode contribuir com o Kakele Bot abrindo uma [issue](https://github.com/marcellobatiista/Kakele-Bot/issues)
-:bug: **_Bug Report_** ou um [pull request](https://github.com/marcellobatiista/Kakele-Bot/pulls) 
+Você pode contribuir com o Kakele Bot abrindo uma [issue](https://github.com/marcellobatiista/KL-Bot/issues)
+:bug: **_Bug Report_** ou um [pull request](https://github.com/marcellobatiista/KL-Bot/pulls) 
 :sparkles: **_New Feature_** no GitHub.
 
 ## Licença

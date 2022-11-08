@@ -7,7 +7,7 @@ from pymongo import MongoClient
 
 from PyQt6.QtWidgets import QMainWindow, QApplication
 from forms.login_window_ui import Ui_MainWindow
-from kakelebot import KakeleBot
+from main import KakeleBot
 
 mongodb = MongoClient(os.environ['HOST'])
 db = mongodb.KAKELEBOT

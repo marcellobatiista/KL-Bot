@@ -9,6 +9,7 @@ import pygetwindow as gw
 class Barras:
     def __init__(self):
         self.KAKELE = gw.getWindowsWithTitle('Kakele')[0]
+        print(self.KAKELE)
 
     def take(self, nome):
         distance = 65 if nome == 'mana' else 35

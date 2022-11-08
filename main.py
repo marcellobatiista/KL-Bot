@@ -124,7 +124,7 @@ class KakeleBot(QMainWindow,
         push_hk.setStyleSheet("background-color: (160, 0, 212)")
         push_hk.setText(f'{label_hk} - {hk}')
 
-2
+
 """ INICIAR O BOT DIRETAMENTE SEM LOGIN"""
 if __name__ == "__main__":
     app = QApplication(sys.argv)
